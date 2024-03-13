@@ -19,7 +19,9 @@ A collection of some awesome public C#/.NET MAUI projects.
 <!-- tocstop -->
 
 ## Learning Resources
-
+- [Maui](https://github.com/dotnet/maui)
+  [![GitHub stars](https://img.shields.io/github/stars/dotnet/maui?style=flat-square)](https://github.com/dotnet/maui/stargazers) 
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/dotnet/maui?style=flat-square)](https://github.com/dotnet/maui/commits) - .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
 
 ## Samples
 
@@ -34,8 +36,8 @@ A collection of some awesome public C#/.NET MAUI projects.
 
 ## UI
 - [Spice](https://github.com/jonathanpeppers/spice)
-  [![GitHub stars](https://img.shields.io/github/stars/jonathanpeppers/spice?style=flat-square)](https://github.com/jonathanpeppers/spice) 
-  [![GitHub last-commit](https://img.shields.io/github/last-commit/jonathanpeppers/spice?style=flat-square)](https://github.com/jonathanpeppers/spice) - Spice 🌶, a spicy cross-platform UI framework!
+  [![GitHub stars](https://img.shields.io/github/stars/jonathanpeppers/spice?style=flat-square)](https://github.com/jonathanpeppers/spice/stargazers) 
+  [![GitHub last-commit](https://img.shields.io/github/last-commit/jonathanpeppers/spice?style=flat-square)](https://github.com/jonathanpeppers/spice/commits) - Spice 🌶, a spicy cross-platform UI framework!
 
 
 ## Blogs
