@@ -33,5 +33,5 @@ A collection of some awesome public C#/.NET MAUI projects.
 
 
 
-  ## Blogs
-  - [Effortless Android Library Binding](https://vladislavantonyuk.github.io/articles/Effortless-Android-Library-Binding/)
+## Blogs
+- [Effortless Android Library Binding](https://vladislavantonyuk.github.io/articles/Effortless-Android-Library-Binding/)
